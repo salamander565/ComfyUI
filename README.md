@@ -9,6 +9,7 @@ Copy the folders into ComfyUI's `custom_nodes` folder. Restart ComfyUI and refre
 # Upscaler Stack (4 Stage)
 
 A compact, sequential four-stage ComfyUI upscaler. Each stage has its own model selection and resize options, and provides an image output for a Preview Image node.
+<img width="238" height="632" alt="Upscaler" src="https://github.com/user-attachments/assets/c3de83ac-c8c0-4b1a-b659-4d243d700dcd" />
 
 
 # Exclusive Node Toggle & Exclusive Group Toggle
