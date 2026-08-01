@@ -1,4 +1,4 @@
-## Custom ComfUI Nodes
+## Custom ComfyUI Nodes
 
 
 ## Install
